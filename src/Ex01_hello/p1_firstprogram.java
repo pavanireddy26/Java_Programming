@@ -1,6 +1,6 @@
 package Ex01_hello;
 
- class firstprogram {
+ class p1_firstprogram {
     public static void main(String a[]){
         System.out.println("hello world");
 
