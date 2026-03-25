@@ -1,6 +1,6 @@
 package Ex05_SwitchStatement;
 
-public class p15_Demo2_updated_switchstatement {
+public class p17_Demo2_updated_switchstatement {
     public static void main(String args[]) {
 
 String day  = "Sunday";

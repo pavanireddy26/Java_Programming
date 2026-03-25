@@ -3,7 +3,7 @@ package Ex04_TernaryOperator;
 public class p13_Demo {
     public static void main(String args[]) {
 
-    int n=4;
+    int n=4;  //even
     int result =0;
 
 //    if(n%2==0)

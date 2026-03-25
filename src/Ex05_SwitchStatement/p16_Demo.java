@@ -1,6 +1,6 @@
 package Ex05_SwitchStatement;
 
-public class p14_Demo {
+public class p16_Demo {
     public static void main(String args[]) {
 
 
